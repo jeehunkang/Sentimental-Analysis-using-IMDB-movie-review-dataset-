@@ -19,4 +19,4 @@ process, for example, the computational efficiency. The entire
 process includes but is not limited to data analysis, data
 preprocessing, model training and tuning, and result comparison.
 
-For the detailed project, please refer to "Performance Comparison of Text Sentiment Classification Models - Tianyao Pu and Jee Hun Kang.pdf" file. 
+For the detailed project, please refer to the "Performance Comparison of Text Sentiment Classification Models - Tianyao Pu and Jee Hun Kang.pdf" file. 
