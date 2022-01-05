@@ -19,4 +19,4 @@ process, for example, the computational efficiency. The entire
 process includes but is not limited to data analysis, data
 preprocessing, model training and tuning, and result comparison.
 
-For detailed project, please refer to the attached file. 
+For the detailed project, please refer to the attached file. 
